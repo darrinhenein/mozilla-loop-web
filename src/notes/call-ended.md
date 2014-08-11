@@ -1,0 +1,1 @@
+This window will close on it's own after 10 seconds of inactivity.
